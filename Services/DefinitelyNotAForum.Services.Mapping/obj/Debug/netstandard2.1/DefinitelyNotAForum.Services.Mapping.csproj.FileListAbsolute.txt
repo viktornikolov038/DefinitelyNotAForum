@@ -1,0 +1,9 @@
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.deps.json
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.dll
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.pdb
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.csprojAssemblyReference.cache
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.AssemblyInfoInputs.cache
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.AssemblyInfo.cs
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.dll
+D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Mapping\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Mapping.pdb
