@@ -1,9 +1,0 @@
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.deps.json
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.pdb
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.csprojAssemblyReference.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.AssemblyInfoInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.AssemblyInfo.cs
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.csproj.CoreCompileInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services.Messaging\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.Messaging.pdb

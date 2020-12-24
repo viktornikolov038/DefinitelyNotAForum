@@ -1,9 +1,0 @@
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.deps.json
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\bin\Debug\netstandard2.1\DefinitelyNotAForum.Services.pdb
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.csprojAssemblyReference.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.AssemblyInfoInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.AssemblyInfo.cs
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.csproj.CoreCompileInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Services\DefinitelyNotAForum.Services\obj\Debug\netstandard2.1\DefinitelyNotAForum.Services.pdb

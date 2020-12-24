@@ -1,8 +1,0 @@
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\bin\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.deps.json
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\bin\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\bin\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.pdb
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\obj\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.AssemblyInfoInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\obj\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.AssemblyInfo.cs
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\obj\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.csproj.CoreCompileInputs.cache
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\obj\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.dll
-D:\Codeing and Programing\DefinitelyNotAForum\Web\DefinitelyNotAForum.Web.Infrastructure\obj\Debug\netstandard2.1\DefinitelyNotAForum.Web.Infrastructure.pdb
