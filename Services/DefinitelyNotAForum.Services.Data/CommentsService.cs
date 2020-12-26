@@ -1,9 +1,7 @@
 ﻿using DefinitelyNotAForum.Data.Common.Repositories;
 using DefinitelyNotAForum.Data.Models;
-using System;
-using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace DefinitelyNotAForum.Services.Data

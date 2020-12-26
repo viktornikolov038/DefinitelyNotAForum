@@ -1,11 +1,8 @@
-﻿using DefinitelyNotAForum.Data.Common.Models;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
-namespace DefinitelyNotAForum.Data.Models
+﻿namespace DefinitelyNotAForum.Data.Models
 {
+    using DefinitelyNotAForum.Data.Common.Models;
+    using System.ComponentModel.DataAnnotations;
+
     public class Vote : BaseModel<int>
     {
         public int PostId { get; set; }

@@ -1,10 +1,8 @@
-﻿using DefinitelyNotAForum.Data.Common.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DefinitelyNotAForum.Data.Models
+﻿namespace DefinitelyNotAForum.Data.Models
 {
+    using DefinitelyNotAForum.Data.Common.Models;
+    using System.Collections.Generic;
+
     public class Category : BaseDeletableModel<int>
     {
         public Category()

@@ -1,15 +1,14 @@
-﻿using DefinitelyNotAForum.Data.Common.Repositories;
-using DefinitelyNotAForum.Data.Models;
-using DefinitelyNotAForum.Services.Mapping;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DefinitelyNotAForum.Services.Data
+﻿namespace DefinitelyNotAForum.Services.Data
 {
-    public class PostsService:IPostsService
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+
+    using DefinitelyNotAForum.Data.Common.Repositories;
+    using DefinitelyNotAForum.Data.Models;
+    using DefinitelyNotAForum.Services.Mapping;
+
+    public class PostsService : IPostsService
     {
         private readonly IDeletableEntityRepository<Post> postsRepository;
 

@@ -1,7 +1,7 @@
-﻿using DefinitelyNotAForum.Data.Common.Models;
-
-namespace DefinitelyNotAForum.Data.Models
+﻿namespace DefinitelyNotAForum.Data.Models
 {
+    using DefinitelyNotAForum.Data.Common.Models;
+
     public class Comment : BaseDeletableModel<int>
     {
         public int PostId { get; set; }

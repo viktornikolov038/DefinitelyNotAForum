@@ -1,13 +1,12 @@
-﻿using DefinitelyNotAForum.Data.Common.Repositories;
-using DefinitelyNotAForum.Data.Models;
-using DefinitelyNotAForum.Services.Mapping;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace DefinitelyNotAForum.Services.Data
+﻿namespace DefinitelyNotAForum.Services.Data
 {
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using DefinitelyNotAForum.Data.Common.Repositories;
+    using DefinitelyNotAForum.Data.Models;
+    using DefinitelyNotAForum.Services.Mapping;
+
     public class CategoriesService : ICategoriesService
     {
         private readonly IDeletableEntityRepository<Category> categoriesRepository;

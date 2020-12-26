@@ -1,13 +1,11 @@
-﻿using DefinitelyNotAForum.Data.Common.Repositories;
-using DefinitelyNotAForum.Data.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DefinitelyNotAForum.Services.Data
+﻿namespace DefinitelyNotAForum.Services.Data
 {
+    using System.Linq;
+    using System.Threading.Tasks;
+
+    using DefinitelyNotAForum.Data.Common.Repositories;
+    using DefinitelyNotAForum.Data.Models;
+
     public class VotesService : IVotesService
     {
         private readonly IRepository<Vote> votesRepository;
@@ -16,6 +14,7 @@ namespace DefinitelyNotAForum.Services.Data
         {
             this.votesRepository = votesRepository;
         }
+
         public int GetVotes(int postId)
         {
             var votes = this.votesRepository.All()

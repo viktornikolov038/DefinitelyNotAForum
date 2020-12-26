@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DefinitelyNotAForum.Services.Data
+﻿namespace DefinitelyNotAForum.Services.Data
 {
+    using System.Collections.Generic;
+
     public interface ICategoriesService
     {
         IEnumerable<T> GetAll<T>(int? count = null);

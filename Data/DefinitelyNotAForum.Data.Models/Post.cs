@@ -1,11 +1,9 @@
-﻿using DefinitelyNotAForum.Data.Common.Models;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
-namespace DefinitelyNotAForum.Data.Models
+﻿namespace DefinitelyNotAForum.Data.Models
 {
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using DefinitelyNotAForum.Data.Common.Models;
+
     public class Post : BaseDeletableModel<int>
     {
         public Post()

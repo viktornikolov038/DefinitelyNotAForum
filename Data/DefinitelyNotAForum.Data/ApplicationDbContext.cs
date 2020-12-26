@@ -1,11 +1,11 @@
 ﻿namespace DefinitelyNotAForum.Data
 {
     using System;
-    using System.Linq;
-    using System.Reflection;
+    
     using System.Threading;
     using System.Threading.Tasks;
-
+    using System.Linq;
+    using System.Reflection;
     using DefinitelyNotAForum.Data.Common.Models;
     using DefinitelyNotAForum.Data.Models;
 
@@ -24,6 +24,8 @@
         {
         }
 
+        public DbSet<Setting> Settings { get; set; }
+
         public DbSet<Category> Categories { get; set; }
 
         public DbSet<Post> Posts { get; set; }
@@ -31,8 +33,6 @@
         public DbSet<Comment> Comments { get; set; }
 
         public DbSet<Vote> Votes { get; set; }
-
-        public DbSet<Setting> Settings { get; set; }
 
         public override int SaveChanges() => this.SaveChanges(true);
 
