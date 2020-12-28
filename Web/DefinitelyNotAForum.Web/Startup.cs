@@ -135,7 +135,7 @@
                     {
                         endpoints.MapControllerRoute(
                             "forumCategory",
-                            "f/{name:minlength(3)}",
+                            "DefinetlyNot/{name:minlength(3)}",
                             new { controller = "Categories", action = "ByName" });
                         endpoints.MapControllerRoute(
                             "areaRoute",

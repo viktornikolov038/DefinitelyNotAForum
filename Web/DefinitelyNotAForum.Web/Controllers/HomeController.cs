@@ -37,7 +37,7 @@
         public IActionResult Index()
         {
             this.TempData["InfoMessage"] = "Thank you for visiting home page.";
-            this.HttpContext.Session.SetString("Name", "Niki");
+            this.HttpContext.Session.SetString("Name", "Viktor");
             this.logger.LogCritical("Hello!");
             var viewModel = new IndexViewModel
             {
