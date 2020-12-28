@@ -1,18 +1,18 @@
 ﻿@using DefinitelyNotAForum.Common
 @model DefinitelyNotAForum.Web.ViewModels.Home.IndexViewModel
 @{
-    this.ViewData["Title"] = $"Welcome to {GlobalConstants.SystemName}!";
+    this.ViewData["Title"] = $"Welcome to Definitely not a forum!";
 }
 
 <div class="text-center">
-    <h1 class="display-3">@this.ViewData["Title"]</h1>
+    <h1 class="text-warning">@this.ViewData["Title"]</h1>
+    <img src="https://www.clipartkey.com/mpngs/m/91-914921_glasses-free-download-png-mustache-glasses-disguise-png.png" alt="image" width="400" height="500">
     <cache expires-after="TimeSpan.FromDays(10)" vary-by-query="id">
-        <h1 class="display-3">@DateTime.UtcNow</h1>
     </cache>
     <a asp-controller="Posts" asp-action="Create" class="btn btn-primary btn-lg">Create new forum post</a>
 </div>
 <hr />
-
+<div class="row">
     @foreach (var category in Model.Categories)
     {
         <div class="col-md-4 media">
@@ -27,3 +27,4 @@
             </div>
         </div>
     }
+</div>
