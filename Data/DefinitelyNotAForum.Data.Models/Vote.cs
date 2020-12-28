@@ -1,7 +1,8 @@
 ﻿namespace DefinitelyNotAForum.Data.Models
 {
-    using DefinitelyNotAForum.Data.Common.Models;
     using System.ComponentModel.DataAnnotations;
+
+    using DefinitelyNotAForum.Data.Common.Models;
 
     public class Vote : BaseModel<int>
     {

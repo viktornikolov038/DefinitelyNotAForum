@@ -1,10 +1,11 @@
-﻿using DefinitelyNotAForum.Data.Models;
-using DefinitelyNotAForum.Services.Mapping;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-
-namespace DefinitelyNotAForum.Web.ViewModels.Posts
+﻿namespace DefinitelyNotAForum.Web.ViewModels.Posts
 {
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+
+    using DefinitelyNotAForum.Data.Models;
+    using DefinitelyNotAForum.Services.Mapping;
+
     public class PostCreateInputModel : IMapTo<Post>
     {
         [Required]

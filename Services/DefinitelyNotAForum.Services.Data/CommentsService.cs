@@ -1,11 +1,12 @@
-﻿using DefinitelyNotAForum.Data.Common.Repositories;
-using DefinitelyNotAForum.Data.Models;
-using Microsoft.AspNetCore.Identity;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace DefinitelyNotAForum.Services.Data
+﻿namespace DefinitelyNotAForum.Services.Data
 {
+    using System.Linq;
+    using System.Threading.Tasks;
+
+    using DefinitelyNotAForum.Data.Common.Repositories;
+    using DefinitelyNotAForum.Data.Models;
+    using Microsoft.AspNetCore.Identity;
+
     public class CommentsService : ICommentsService
     {
         private readonly IDeletableEntityRepository<Comment> commentsRepository;

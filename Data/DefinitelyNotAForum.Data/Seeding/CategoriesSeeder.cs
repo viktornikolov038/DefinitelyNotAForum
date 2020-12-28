@@ -25,7 +25,7 @@
                 ("Animals", "https://images.theconversation.com/files/285143/original/file-20190722-11355-1peled7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"),
                 ("Memes", "https://cdn3.f-cdn.com/contestentries/1451126/30684613/5bf9f5530f3a0_thumb900.jpg"),
                 ("Cars", "https://images-na.ssl-images-amazon.com/images/I/71%2BmhWHnBdL._SL1500_.jpg"),
-                ("Movies","https://kinoto.bg/media/app_large/uploads/BG-cinema/rent_a_hall-2.jpg")
+                ("Movies", "https://kinoto.bg/media/app_large/uploads/BG-cinema/rent_a_hall-2.jpg"),
             };
             foreach (var category in categories)
             {

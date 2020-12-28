@@ -1,14 +1,13 @@
 ﻿namespace DefinitelyNotAForum.Data
 {
     using System;
-    
-    using System.Threading;
-    using System.Threading.Tasks;
     using System.Linq;
     using System.Reflection;
+    using System.Threading;
+    using System.Threading.Tasks;
+
     using DefinitelyNotAForum.Data.Common.Models;
     using DefinitelyNotAForum.Data.Models;
-
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
 

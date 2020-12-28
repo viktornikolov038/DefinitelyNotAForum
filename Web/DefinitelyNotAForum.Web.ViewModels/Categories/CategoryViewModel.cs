@@ -1,11 +1,12 @@
-﻿using DefinitelyNotAForum.Data.Models;
-using DefinitelyNotAForum.Services.Mapping;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DefinitelyNotAForum.Web.ViewModels.Categories
+﻿namespace DefinitelyNotAForum.Web.ViewModels.Categories
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
+    using DefinitelyNotAForum.Data.Models;
+    using DefinitelyNotAForum.Services.Mapping;
+
     public class CategoryViewModel : IMapFrom<Category>
     {
         public int Id { get; set; }

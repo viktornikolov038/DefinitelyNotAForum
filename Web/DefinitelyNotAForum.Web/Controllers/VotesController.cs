@@ -1,12 +1,13 @@
 ﻿namespace DefinitelyNotAForum.Web.Controllers
 {
+    using System.Threading.Tasks;
+
     using DefinitelyNotAForum.Data.Models;
     using DefinitelyNotAForum.Services.Data;
     using DefinitelyNotAForum.Web.ViewModels.Votes;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
-    using System.Threading.Tasks;
 
     [ApiController]
     [Route("api/[controller]")]

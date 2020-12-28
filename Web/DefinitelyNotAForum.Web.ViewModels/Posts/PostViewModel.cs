@@ -1,14 +1,15 @@
-﻿using AutoMapper;
-using DefinitelyNotAForum.Data.Models;
-using DefinitelyNotAForum.Services.Mapping;
-using Ganss.XSS;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace DefinitelyNotAForum.Web.ViewModels.Posts
+﻿namespace DefinitelyNotAForum.Web.ViewModels.Posts
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    using AutoMapper;
+    using DefinitelyNotAForum.Data.Models;
+    using DefinitelyNotAForum.Services.Mapping;
+    using Ganss.XSS;
+
     public class PostViewModel : IMapFrom<Post>, IMapTo<Post>, IHaveCustomMappings
     {
         public int Id { get; set; }

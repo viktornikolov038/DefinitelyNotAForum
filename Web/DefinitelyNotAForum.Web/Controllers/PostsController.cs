@@ -1,6 +1,7 @@
 ﻿namespace DefinitelyNotAForum.Web.Controllers
 {
     using System.Threading.Tasks;
+
     using AutoMapper;
     using DefinitelyNotAForum.Data.Models;
     using DefinitelyNotAForum.Services.Data;
